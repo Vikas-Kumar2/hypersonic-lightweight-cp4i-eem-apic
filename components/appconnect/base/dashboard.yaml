@@ -5,7 +5,7 @@ metadata:
 spec:
   license:
     accept: true
-    license: L-KPRV-AUG9NC
+    license: L-CKFT-S6CHZW
     use: CloudPakForIntegrationNonProduction
   pod:
     containers:
@@ -28,7 +28,7 @@ spec:
     type: persistent-claim
     class: PATCHED_BY_KUSTOMIZE
   replicas: 1
-  version: 13.0.4.1-r1
+  version: 13.0.6.2-r1
   displayMode: IntegrationRuntimes
   logFormat: basic
   logLevel: info

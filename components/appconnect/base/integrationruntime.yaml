@@ -8,7 +8,7 @@ metadata:
 spec:
   license:
     accept: true
-    license: L-KPRV-AUG9NC
+    license: L-CKFT-S6CHZW
     use: CloudPakForIntegrationNonProduction
   restApiHTTPS:
     enabled: true
@@ -19,7 +19,7 @@ spec:
     secretName: default-cert-copy
   dashboardUsers:
     bypassGenerate: false
-  version: '13.0.4.1-r1'
+  version: '13.0.6.2-r1'
   template:
     spec:
       volumes:
