@@ -5,4 +5,4 @@ metadata:
 spec:
   manager:
     storage:
-      storageClassName: ocs-external-storagecluster-cephfs
+      storageClassName: ocs-storagecluster-ceph-rbd
