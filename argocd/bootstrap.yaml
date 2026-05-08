@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: ./argocd
-    repoURL: https://github.com/Nordic-MVP-GitOps-Repos/hypersonic-lightweight-cp4i.git
+    repoURL: https://github.com/Vikas-Kumar2/hypersonic-lightweight-cp4i-eem-apic.git
   syncPolicy:
     automated:
       prune: true
